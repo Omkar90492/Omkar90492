@@ -27,7 +27,7 @@
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -70,7 +70,7 @@
 | :--- | :--- |
 | 🎨 **Focus** | Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50. |
 | 🚀 **Impact** | Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy. |
-| ⏱️ **Performance** | Maintained sub-200ms API response for synchronous inference, supporting 50+ concurrent users. |
+| 🏗️ **Architecture** | Maintained sub-200ms API response for synchronous inference, supporting 50+ concurrent users. |
 | 🔗 **Repository** | <a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 <br>
