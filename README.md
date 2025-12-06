@@ -12,6 +12,8 @@
 
 ⚡ **Core Focus:** Optimizing system performance and resource efficiency (e.g., achieving sub-200ms API response and cutting latency by 40%).
 
+🧠 **Technical Proficiency:** Solved **300+ DSA problems** on LeetCode.
+
 🏆 **Elite Recognition:** Recognized among the Distinguished 8% of 905 Interns for measurable impact (0.58 MT CO₂ reduction).
 
 ❓ **Ask me about:** Data Structures & Algorithms, System Design, Microservices, and Cloud Infrastructure (AWS).
