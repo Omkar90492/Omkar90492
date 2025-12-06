@@ -71,7 +71,7 @@
 | 🎨 **Focus** | Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50. |
 | 🚀 **Impact** | Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy. |
 | ⏱️ **Performance** | Maintained sub-200ms API response for synchronous inference, supporting 50+ concurrent users. |
-| 🔗 **Repository Link** | **<a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System">GitHub</a>** <a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/link-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+| 🔗 **Repository ** | **<a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System">GitHub</a>** <a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/link-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 <br>
 
