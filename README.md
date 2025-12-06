@@ -10,7 +10,7 @@
 
 💡 **Driving Innovation with GenAI:** Implementing **LLAMA-3** and **Stable Diffusion** for novel applications and rapid prototyping.
 
-⚡ **Core Focus:** Optimizing system performance and resource efficiency (e.g., achieving sub-200ms API response and cutting latency by 40%).
+⚡ Core Focus: Optimizing system performance and efficiency, achieving sub-200ms responses and lower latency of 40%.
 
 🏆 **Elite Recognition:** Recognized among the Distinguished 8% of 905 Interns for measurable impact (0.58 MT CO₂ reduction).
 
