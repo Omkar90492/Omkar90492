@@ -56,30 +56,30 @@
 ### 1. Sentinel MLOps
 | Detail | Description |
 | :--- | :--- |
-| ⚙️ **Focus** | Fraud detection pipeline using Kubernetes, Docker, and MLflow. |
-| 📈 **Value** | Automated deployment via Kubernetes and CI/CD reducing manual model deployment time to <2 minutes. Attained 92% Recall on highly imbalanced fraud data. |
-| 💻 **Tech** | Python, Docker, Kubernetes, MLflow, Prometheus, Grafana |
-| 🔗 **Link** | <a href="https://github.com/Omkar90492/Sentinel-AI--Production-MLOps"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+|  **Focus** | Fraud detection pipeline using Kubernetes, Docker, and MLflow. |
+|  **Impact** | Automated deployment via Kubernetes and CI/CD reducing manual model deployment time to <2 minutes. Attained 92% Recall on highly imbalanced fraud data. |
+| **Tech** | Python, Docker, Kubernetes, MLflow, Prometheus, Grafana |
+| **Link** | <a href="https://github.com/Omkar90492/Sentinel-AI--Production-MLOps"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 <br>
 
 ### 2. MindCanvas GenAI
 | Detail | Description |
 | :--- | :--- |
-| 🎨 **Focus** | Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50. |
-| 🚀 **Value** | Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy. |
-| 💻 **Tech** | Python, PyTorch, Stable Diffusion, OpenCV, Flask |
-| 🔗 **Link** | <a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+|  **Focus** | Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50. |
+|  **Impact** | Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy. |
+|  **Tech** | Python, PyTorch, Stable Diffusion, OpenCV, Flask |
+|  **Link** | <a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 <br>
 
 ### 3. AI Resume Ranker
 | Detail | Description |
 | :--- | :--- |
-| 💼 **Focus** | Full-stack ranking application using React, Node.js, and MongoDB. |
-| 📉 **Value** | Performance-tuned MongoDB queries, cutting applicant data retrieval latency by 40%. Engineered TF-IDF ranking algorithm, achieving 88% matching relevance. |
-| 💻 **Tech** | Next.js, React.js, Node.js, MongoDB, Flask, FastAPI |
-| 🔗 **Link** | <a href="https://github.com/Omkar90492/Intelligent-Resume-Ranking-Platform"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+|  **Focus** | Full-stack ranking application using React, Node.js, and MongoDB. |
+|  **Impact** | Performance-tuned MongoDB queries, cutting applicant data retrieval latency by 40%. Engineered TF-IDF ranking algorithm, achieving 88% matching relevance. |
+|  **Tech** | Next.js, React.js, Node.js, MongoDB, Flask, FastAPI |
+|  **Link** | <a href="https://github.com/Omkar90492/Intelligent-Resume-Ranking-Platform"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 ---
 
