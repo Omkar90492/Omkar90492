@@ -6,9 +6,9 @@
 
 ## 🚀 Building & Scaling Production-Grade AI Systems
 
-➡️ **Specializing in MLOps:** Leveraging **Kubernetes**, **Docker**, and **MLflow** to design and deploy resilient, highly available machine learning pipelines.
+**Specializing in MLOps:** Deploying resilient, highly available ML pipelines using **Kubernetes**, **Docker**, and **MLflow**.
 
-💡 **Driving Innovation with GenAI:** Actively exploring and implementing LLAMA-3 and Stable Diffusion for novel applications and rapid prototyping.
+**Driving Innovation with GenAI:** Implementing **LLAMA-3** and **Stable Diffusion** for novel applications and rapid prototyping.
 
 ⚡ **Core Focus:** Optimizing system performance and resource efficiency (e.g., achieving sub-200ms API response and cutting latency by 40%).
 
