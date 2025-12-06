@@ -1,22 +1,16 @@
 # Hi 👋, I'm Omkar Rajesh Shinde
 
-### ⚙️ MLOps Pipeline Engineer | 💡 Generative AI Explorer | 💻 Full Stack Developer
+### ⚙️ MLOps Pipeline Engineer & Full Stack Developer
 
 ---
 
-## 🙋‍♂️ About Me
+## 💡 Exploring Modern ML Systems & Generative AI
 
-<div align="center">
-  > ### Focused on Engineering the Future of ML/AI
-  > I am an Electronics and Computer Science undergrad dedicated to building and scaling high-performance machine learning and Generative AI systems. I combine strong foundation in Data Structures and Algorithms with practical DevOps skills (Kubernetes, Docker) to deliver production-ready, highly available solutions.
-  >
-  > ---
-  >
-  > * **Core Expertise:** MLOps, System Design, Generative AI (LLAMA-3, Stable Diffusion), and Full Stack Performance Optimization.
-  > * **Proven Impact:** Recognized among the Distinguished 8% of 905 Interns (1M1B) for minimizing participant CO₂ emissions by 0.58 MT.
-  > * **Technical Proficiency:** Solved 300+ DSA problems on LeetCode.
-  
-</div>
+* 🔭 Currently working on highly-scalable MLOps pipelines using Kubernetes and MLflow.
+* 🌱 Diving deep into Generative AI and Large Language Models (LLAMA-3).
+* 🎯 **Goal:** Engineer high-performance, resilient ML systems in production environments.
+* 🤝 Ask me about: MLOps | System Design | GenAI | Full Stack Development
+* 📧 Reach me at: omkarrajeshshinde0@gmail.com 
 
 ---
 
@@ -53,11 +47,10 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
@@ -68,6 +61,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ---
 
