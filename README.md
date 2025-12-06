@@ -1,6 +1,22 @@
 # Hi 👋, I'm Omkar Rajesh Shinde
 
-### MLOps Pipeline Engineer | Generative AI Explorer | Full Stack Developer
+### ⚙️ MLOps Pipeline Engineer | 💡 Generative AI Explorer | 💻 Full Stack Developer
+
+---
+
+## 🙋‍♂️ About Me
+
+<div align="center">
+  > ### Focused on Engineering the Future of ML/AI
+  > I am an Electronics and Computer Science undergrad dedicated to building and scaling high-performance machine learning and Generative AI systems. I combine strong foundation in Data Structures and Algorithms with practical DevOps skills (Kubernetes, Docker) to deliver production-ready, highly available solutions.
+  >
+  > ---
+  >
+  > * **Core Expertise:** MLOps, System Design, Generative AI (LLAMA-3, Stable Diffusion), and Full Stack Performance Optimization.
+  > * **Proven Impact:** Recognized among the Distinguished 8% of 905 Interns (1M1B) for minimizing participant CO₂ emissions by 0.58 MT.
+  > * **Technical Proficiency:** Solved 300+ DSA problems on LeetCode.
+  
+</div>
 
 ---
 
@@ -11,7 +27,7 @@
 * **Impact:** Automated deployment via Kubernetes and CI/CD reducing manual model deployment time to <2 minutes. Attained 92% Recall on highly imbalanced fraud data.
 * **DevOps:** Integrated Prometheus and Grafana for system monitoring, ensuring 99.9% availability.
 * **Repository Link:** <br><a href="https://github.com/Omkar90492/Sentinel-AI--Production-MLOps"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
+
 ### 2. MindCanvas GenAI
 * **Focus:** Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50.
 * **Impact:** Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy.
@@ -38,21 +54,20 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/DVC-1360E4?style=for-the-badge&logo=dvc&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 ---
 
