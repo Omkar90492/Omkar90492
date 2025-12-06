@@ -6,34 +6,7 @@
 
 ## 🚀 Building & Scaling Production-Grade AI Systems
 
-* 🔭 **Specializing in MLOps:** Leveraging Kubernetes, Docker, and MLflow to design and deploy resilient, highly available machine learning pipelines.
-* 🌱 **Driving Innovation with GenAI:** Actively exploring and implementing LLAMA-3 and Stable Diffusion for novel applications and rapid prototyping.
-* 🎯 **Core Focus:** Optimizing system performance and resource efficiency (e.g., achieving sub-200ms API response and cutting latency by 40%).
-* 🤝 **Ask me about:** Data Structures & Algorithms (solved 300+ problems), System Design, Microservices, and Cloud Infrastructure (AWS).
-* 🏆 **Elite Recognition:** Recognized among the Distinguished 8% of 905 Interns for measurable impact (0.58 MT CO₂ reduction).
-* 📧 **Reach me at:** omkarrajeshshinde0@gmail.com
-
----
-
-## 🔥 Featured Projects
-
-### 1. Sentinel MLOps
-* **Focus:** Fraud detection pipeline using Kubernetes, Docker, and MLflow.
-* **Impact:** Automated deployment via Kubernetes and CI/CD reducing manual model deployment time to <2 minutes. Attained 92% Recall on highly imbalanced fraud data.
-* **DevOps:** Integrated Prometheus and Grafana for system monitoring, ensuring 99.9% availability.
-* **Repository Link:** <br><a href="https://github.com/Omkar90492/Sentinel-AI--Production-MLOps"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-### 2. MindCanvas GenAI
-* **Focus:** Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50.
-* **Impact:** Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy.
-* **Performance:** Maintained sub-200ms API response for synchronous inference, supporting 50+ concurrent users.
-* **Repository Link:** <br><a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-### 3. AI Resume Ranker
-* **Focus:** Full-stack ranking application using React, Node.js, and MongoDB.
-* **Impact:** Performance-tuned MongoDB queries, cutting applicant data retrieval latency by 40%. Engineered TF-IDF ranking algorithm, achieving 88% matching relevance.
-* **Architecture:** Architected decoupled Next.js/Flask system, compressing inter-service page load time by 35%.
-* **Repository Link:** <br><a href="https://github.com/Omkar90492/Intelligent-Resume-Ranking-Platform"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+**Specializing in MLOps:** Leveraging Kubernetes, Docker, and MLflow to design and deploy resilient, highly available machine learning pipelines. **Driving Innovation with GenAI:** Actively exploring and implementing LLAMA-3 and Stable Diffusion for novel applications and rapid prototyping. **Core Focus:** Optimizing system performance and resource efficiency (e.g., achieving sub-200ms API response and cutting latency by 40%). **Technical Proficiency:** Solved 300+ DSA problems on LeetCode. **Elite Recognition:** Recognized among the Distinguished 8% of 905 Interns for measurable impact (0.58 MT CO₂ reduction). **Ask me about:** Data Structures & Algorithms, System Design, Microservices, and Cloud Infrastructure (AWS). 📧 **Reach me at:** omkarrajeshshinde0@gmail.com
 
 ---
 
@@ -65,6 +38,28 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
+
+---
+
+## 🔥 Featured Projects
+
+### 1. Sentinel MLOps
+* **Focus:** Fraud detection pipeline using Kubernetes, Docker, and MLflow.
+* **Impact:** Automated deployment via Kubernetes and CI/CD reducing manual model deployment time to <2 minutes. Attained 92% Recall on highly imbalanced fraud data.
+* **DevOps:** Integrated Prometheus and Grafana for system monitoring, ensuring 99.9% availability.
+* **Repository Link:** <br><a href="https://github.com/Omkar90492/Sentinel-AI--Production-MLOps"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+### 2. MindCanvas GenAI
+* **Focus:** Image generation and multi-modal classification using PyTorch, Stable Diffusion, and ResNet-50.
+* **Impact:** Accelerated Stable Diffusion to generate art in <5 seconds on GPU. Engineered Multi-modal AI with 87% emotional classification accuracy.
+* **Performance:** Maintained sub-200ms API response for synchronous inference, supporting 50+ concurrent users.
+* **Repository Link:** <br><a href="https://github.com/Omkar90492/MindCanvas--Multi-Modal-Generative-AI-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+### 3. AI Resume Ranker
+* **Focus:** Full-stack ranking application using React, Node.js, and MongoDB.
+* **Impact:** Performance-tuned MongoDB queries, cutting applicant data retrieval latency by 40%. Engineered TF-IDF ranking algorithm, achieving 88% matching relevance.
+* **Architecture:** Architected decoupled Next.js/Flask system, compressing inter-service page load time by 35%.
+* **Repository Link:** <br><a href="https://github.com/Omkar90492/Intelligent-Resume-Ranking-Platform"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
