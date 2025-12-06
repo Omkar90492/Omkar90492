@@ -1,20 +1,21 @@
 # Hi 👋, I'm Omkar Rajesh Shinde
 
-### ⚙️ MLOps Pipeline Engineer & Full Stack Developer
+### ⚙️ MLOps Pipeline Engineer | 💡 Generative AI Architect | 💻 Full Stack Developer
 
 ---
 
-## 💡 Exploring Modern ML Systems & Generative AI
+## 🚀 Building & Scaling Production-Grade AI Systems
 
-* 🔭 Currently working on highly-scalable MLOps pipelines using Kubernetes and MLflow.
-* 🌱 Diving deep into Generative AI and Large Language Models (LLAMA-3).
-* 🎯 **Goal:** Engineer high-performance, resilient ML systems in production environments.
-* 🤝 Ask me about: MLOps | System Design | GenAI | Full Stack Development
-* 📧 Reach me at: omkarrajeshshinde0@gmail.com 
+* 🔭 **Specializing in MLOps:** Leveraging Kubernetes, Docker, and MLflow to design and deploy resilient, highly available machine learning pipelines.
+* 🌱 **Driving Innovation with GenAI:** Actively exploring and implementing LLAMA-3 and Stable Diffusion for novel applications and rapid prototyping.
+* 🎯 **Core Focus:** Optimizing system performance and resource efficiency (e.g., achieving sub-200ms API response and cutting latency by 40%).
+* 🤝 **Ask me about:** Data Structures & Algorithms (solved 300+ problems), System Design, Microservices, and Cloud Infrastructure (AWS).
+* 🏆 **Elite Recognition:** Recognized among the Distinguished 8% of 905 Interns for measurable impact (0.58 MT CO₂ reduction).
+* 📧 **Reach me at:** omkarrajeshshinde0@gmail.com
 
 ---
 
-## 🚀 Top 3 Projects
+## 🔥 Featured Projects
 
 ### 1. Sentinel MLOps
 * **Focus:** Fraud detection pipeline using Kubernetes, Docker, and MLflow.
